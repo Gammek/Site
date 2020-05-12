@@ -1,0 +1,38 @@
+body {
+    background-image:url('https://cutewallpaper.org/21/wallpaper-keyboard/Download-wallpaper-2048x1152-keyboard,-key,-backlight-.jpg');
+    background-size: auto 100vh;
+    height: 100vh;
+  }
+  
+  .site-title, .site-subtitle {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-title {
+    font-style: italic;
+  }
+  
+  
+  .info {
+    background-color: gray;
+  }
+  
+  .info ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .info li {
+    list-style: none;
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
